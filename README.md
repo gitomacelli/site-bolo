@@ -26,7 +26,7 @@ O site é totalmente estático e construído com **HTML5** e **CSS3**, contendo 
 
 ## 🌐 Acesse o site publicado:
 
-🔗 [https://gitomacelli.github.io/site-rebecca-travassos](https://gitomacelli.github.io/site-rebecca-travassos)
+🔗 [https://gitomacelli.github.io/site-bolo/](https://gitomacelli.github.io/site-bolo/)
 
 ## 👩‍💻 Desenvolvedoras
 
